@@ -1,0 +1,1 @@
+"use strict";console.log("This is from script.js");var jim=function(){console.log("jim")};
