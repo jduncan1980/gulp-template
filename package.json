@@ -1,0 +1,21 @@
+{
+	"name": "gulp-template",
+	"version": "1.0.0",
+	"description": "gulp template basic",
+	"author": "Jason Duncan",
+	"license": "MIT",
+	"devDependencies": {
+		"@babel/core": "^7.6.0",
+		"@babel/preset-env": "^7.6.0",
+		"autoprefixer": "^9.7.6",
+		"browser-sync": "^2.26.7",
+		"cssnano": "^4.1.10",
+		"del": "^5.1.0",
+		"gulp": "^4.0.2",
+		"gulp-babel": "^8.0.0",
+		"gulp-concat": "^2.6.1",
+		"gulp-postcss": "^8.0.0",
+		"gulp-sass": "^4.0.2",
+		"node-sass": "^4.13.1"
+	}
+}
